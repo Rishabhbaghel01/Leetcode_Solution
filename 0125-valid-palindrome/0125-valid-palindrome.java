@@ -1,20 +1,29 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String str = new String("");
-        for (int i = 0; i < s.length(); i++) {
-            char ch = Character.toLowerCase(s.charAt(i));
-            if (Character.isLetterOrDigit(ch)) {
-                str += ch;
+        String ans=new String("");
+        for(int i=0;i<s.length();i++){
+            if((s.charAt(i)>=65 && s.charAt(i)<=90) || (s.charAt(i)>=97 && s.charAt(i)<=122)){
+                ans+=s.charAt(i);
+            }
+            else if(s.charAt(i)-'0'>=0 && s.charAt(i)-'0'<10){
+                ans+=s.charAt(i);
             }
         }
-        int left = 0;
-        int right = str.length() - 1;
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) {
+        ans=ans.toLowerCase();
+        if(find(ans)==true){
+            return true;
+        }
+        return false;
+    }
+    public boolean find(String ans){
+        int a=0;
+        int b=ans.length()-1;
+        while(a<b){
+            if(ans.charAt(a)!=ans.charAt(b)){
                 return false;
             }
-            left++;
-            right--;
+            a++;
+            b--;
         }
         return true;
     }
