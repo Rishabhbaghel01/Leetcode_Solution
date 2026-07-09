@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 ## Binary Search
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
