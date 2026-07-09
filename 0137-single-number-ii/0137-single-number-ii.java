@@ -9,9 +9,6 @@ class Solution {
             else{
                 map.put(i,0);
             }
-            if(map.get(i)==3){
-                map.remove(i);
-            }
         }
         int ans=-1;
         for(Integer b:map.keySet()){
