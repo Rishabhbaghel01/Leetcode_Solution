@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
+| [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
@@ -33,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0041-first-missing-positive) |
+| [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
