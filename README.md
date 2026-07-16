@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
