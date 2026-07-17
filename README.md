@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0125-valid-palindrome) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
