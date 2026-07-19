@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
