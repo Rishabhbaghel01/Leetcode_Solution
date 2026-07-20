@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
