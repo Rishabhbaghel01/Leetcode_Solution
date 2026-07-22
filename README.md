@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
