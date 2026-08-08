@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -60,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0229-majority-element-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
