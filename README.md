@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/0500-keyboard-row) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2278-percentage-of-letter-in-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3330-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
