@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2404-most-frequent-even-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/2404-most-frequent-even-element) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rishabhbaghel01/Leetcode_Solution/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
